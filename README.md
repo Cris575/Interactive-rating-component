@@ -22,8 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-RkvOOLAwGs)
-- Live Site URL: [Blog Card](https://github.com/Cris575/Profile-card.git)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-3zdbiGI5gn)
+- Live Site URL: [Blog Card](https://cris575.github.io/Interactive-rating-component/)
 
 ### Built with
 
